@@ -1,0 +1,4 @@
+package: github.com/klog
+import:
+- package: github.com/lestrrat-go/file-rotatelogs
+  version: v2.2.0
